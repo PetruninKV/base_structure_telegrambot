@@ -6,7 +6,7 @@
     - Откройте терминал в папке, где будет храниться ваш будущий проект;
     - Скопируйте проект локально на ваш компьютер, выполнив следующую команду:
         ```bash
-        git clone git@github.com:PetruninKV/base_structure_telegrambot.git
+        git clone https://github.com/PetruninKV/base_structure_telegrambot.git
         ```
     - Переименуйте папку в соответствии с названием будущего проекта:
         ```bash
